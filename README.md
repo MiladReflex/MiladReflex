@@ -2,7 +2,6 @@
 - 👀 I’m interested in fitness, martial arts, technology and coding.
 - 🌱 I’m currently learning elementor and (HTML, CSS, JavaScript).
 - 💞️ I’m looking to collaborate on web developing and artificial intelligence coding.
-- 📫 How to reach me by sending direct message on instagram @miladreflex1 or telegram @miladreflex
 - 😄 Pronouns: He/him/his
 
 <!---
